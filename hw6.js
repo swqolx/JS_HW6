@@ -1,6 +1,6 @@
 //====================ex1
 let i = 1;
-while(1 <= 10){
+while(i <= 10){
     console.log(i);
     i+=i
 }
